@@ -1,0 +1,202 @@
+[
+  {
+    "role": "Founding Engineer",
+    "salary": 260000
+  },
+  {
+    "role": "CTO",
+    "salary": 320000
+  },
+  {
+    "role": "Backend Engineer",
+    "salary": 180000
+  },
+  {
+    "role": "Frontend Engineer",
+    "salary": 175000
+  },
+  {
+    "role": "Product Manager",
+    "salary": 165000
+  },
+  {
+    "role": "Data Scientist",
+    "salary": 190000
+  },
+  {
+    "role": "QA Engineer",
+    "salary": 120000
+  },
+  {
+    "role": "DevOps Engineer",
+    "salary": 210000
+  },
+  {
+    "role": "Intern",
+    "salary": 24000
+  },
+  {
+    "role": "Intern",
+    "salary": 26000
+  },
+  {
+    "role": "Junior Engineer",
+    "salary": 70000
+  },
+  {
+    "role": "Junior Engineer",
+    "salary": 72000
+  },
+  {
+    "role": "Junior Engineer",
+    "salary": 75000
+  },
+  {
+    "role": "Customer Support",
+    "salary": 42000
+  },
+  {
+    "role": "Designer",
+    "salary": 110000
+  },
+  {
+    "role": "UX Designer",
+    "salary": 115000
+  },
+  {
+    "role": "Sales Rep",
+    "salary": 95000
+  },
+  {
+    "role": "Sales Rep",
+    "salary": 98000
+  },
+  {
+    "role": "Marketing Lead",
+    "salary": 150000
+  },
+  {
+    "role": "Growth Hacker",
+    "salary": 140000
+  },
+  {
+    "role": "Security Engineer",
+    "salary": 205000
+  },
+  {
+    "role": "ML Engineer",
+    "salary": 230000
+  },
+  {
+    "role": "Research Engineer",
+    "salary": 240000
+  },
+  {
+    "role": "Operations",
+    "salary": 80000
+  },
+  {
+    "role": "Operations",
+    "salary": 82000
+  },
+  {
+    "role": "Finance",
+    "salary": 130000
+  },
+  {
+    "role": "Accountant",
+    "salary": 90000
+  },
+  {
+    "role": "HR",
+    "salary": 85000
+  },
+  {
+    "role": "Recruiter",
+    "salary": 88000
+  },
+  {
+    "role": "Office Manager",
+    "salary": 60000
+  },
+  {
+    "role": "Support Lead",
+    "salary": 125000
+  },
+  {
+    "role": "Principal Architect",
+    "salary": 280000
+  },
+  {
+    "role": "Chief Product Officer",
+    "salary": 295000
+  },
+  {
+    "role": "Chief Revenue Officer",
+    "salary": 310000
+  },
+  {
+    "role": "Part-time Contractor",
+    "salary": 35000
+  },
+  {
+    "role": "Contractor",
+    "salary": 45000
+  },
+  {
+    "role": "Contractor",
+    "salary": 47000
+  },
+  {
+    "role": "Advisor",
+    "salary": 50000
+  },
+  {
+    "role": "Advisor",
+    "salary": 150000
+  },
+  {
+    "role": "Fellow",
+    "salary": 160000
+  },
+  {
+    "role": "Student Intern",
+    "salary": 22000
+  },
+  {
+    "role": "Student Intern",
+    "salary": 23000
+  },
+  {
+    "role": "Specialist",
+    "salary": 135000
+  },
+  {
+    "role": "Specialist",
+    "salary": 138000
+  },
+  {
+    "role": "Lead Engineer",
+    "salary": 225000
+  },
+  {
+    "role": "Platform Engineer",
+    "salary": 215000
+  },
+  {
+    "role": "Growth Lead",
+    "salary": 155000
+  },
+  {
+    "role": "Support Engineer",
+    "salary": 105000
+  },
+  {
+    "role": "Operations Lead",
+    "salary": 145000
+  },
+  {
+    "role": "Founder",
+    "salary": 450000
+  }
+]
